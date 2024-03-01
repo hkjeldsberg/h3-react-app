@@ -9,7 +9,7 @@ Before you begin, ensure you have the following installed:
 
 - Node.js (v14.0.0 or higher recommended)
 - npm (v6.0.0 or higher)
-- h3 (4.0.0 or higher)
+- h3-js (4.0.0 or higher)
 
 ## Installation
 
